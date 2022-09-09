@@ -1,4 +1,4 @@
-#include <stdio.h>Q!+Q
+#include <stdio.h>
 
 /**
  * main - Entry point
